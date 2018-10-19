@@ -9,7 +9,9 @@ Study-specific (major) tools that I developed cannot be included here as those a
 ## Python Scripts in this repository
 
 **4_layer_born-effective_calculation.py**: This script parses ouput porduced by VASP and calculates born-effective charges for any 4 layer superlattice.
+
 **lautrec_to_poscar_cif.py**: This script parses the lautrec output files and generates VASP readable coordinate files. It also converts the vasp cordinate files into cif format for vizulization with VESTA. 
+
 **pol_vasp.py**: Parse VASP output and calculate polarization using theory of polarization. 
 
 
